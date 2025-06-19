@@ -38,6 +38,8 @@ This project explores the intersection of housing prices and crime levels across
 - Bar chart: Top 10 boroughs by growth & crime rate
 - Correlation plots of socio-economic indicators
 
+  ![Dashboard Screenshot](![London_Housing_AvgPrice](https://github.com/user-attachments/assets/ed3c6055-2b62-43e1-b3e3-a2bd1089d95b))
+
 ## 💡 Insights
 - Central boroughs (e.g., Westminster, Kensington) show high property value but also high crime
 - Some outer boroughs (e.g., Bexley, Sutton) show moderate pricing with low crime — ideal for long-term investment
