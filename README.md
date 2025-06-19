@@ -39,6 +39,8 @@ This project explores the intersection of housing prices and crime levels across
 - Correlation plots of socio-economic indicators
 
   ![Dashboard Screenshot](https://github.com/user-attachments/assets/ed3c6055-2b62-43e1-b3e3-a2bd1089d95b)
+  ![Dashboard Screenshot](https://github.com/user-attachments/assets/70986e63-c469-4f41-9a80-7de9e6a1b946)
+  ![Dashboard Screenshot](https://github.com/user-attachments/assets/495b41e0-6b18-4a56-b5b4-0a470d8d42f7)
 
 ## 💡 Insights
 - Central boroughs (e.g., Westminster, Kensington) show high property value but also high crime
